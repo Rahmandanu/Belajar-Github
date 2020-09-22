@@ -3,3 +3,4 @@ membuat website Company Profile
 belajar CI 4
 membuat website sederhana 
 membuat webite admin
+melakukan hosting
